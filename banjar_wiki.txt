@@ -1,0 +1,424 @@
+<gallery mode=packed heights=200px style="text-align:center">
+Berkas:Seal of Banjarnegara Regency (2022).svg|Lambang Kabupaten Banjarnegara
+Berkas:Locator kabupaten banjarnegara.gif|Peta Kabupaten Banjarnegara di Jawa Tengah
+Berkas:Indonesia Banjarnegara Regency location map.svg|Peta kecamatan di Kabupaten Banjarnegara
+</gallery>
+
+Berikut adalah '''daftar kecamatan dan kelurahan/desa di [[Kabupaten Banjarnegara]]''', Provinsi [[Jawa Tengah]], [[Indonesia]]. <onlyinclude>Kabupaten Banjarnegara terdiri dari 20 kecamatan, 12 kelurahan, dan 266 desa. Pada tahun 2017, jumlah penduduknya mencapai 1.002.398 jiwa dengan luas wilayah 1.023,73 km² dan sebaran penduduk 979 jiwa/km².<ref name="Permendagri-137-2017">{{cite web|url= https://archive.org/details/PermendagriNo.137Tahun2017 |title= Peraturan Menteri Dalam Negeri Nomor 137 Tahun 2017 tentang Kode dan Data Wilayah Administrasi Pemerintahan |publisher= Kementerian Dalam Negeri Republik Indonesia |access-date= 3 Oktober 2019 |archive-url= https://archive.org/details/PermendagriNo.137Tahun2017/mode/2up |archive-date= 29 Desember 2018}}</ref><ref name="Permendagri-72-2019">{{cite web|url= http://jdih.setjen.kemendagri.go.id/pm/Permendagri%20No%2072%20Th%202019+lampiran.pdf |title= Peraturan Menteri Dalam Negeri Nomor 72 Tahun 2019 tentang Perubahan atas Permendagri nomor 137 Tahun 2017 tentang Kode dan Data Wilayah Administrasi Pemerintahan |archive-url= https://archive.org/details/permendagriindonesia722019 |archive-date= 25 Oktober 2019 |publisher= Kementerian Dalam Negeri Republik Indonesia |access-date= 15 Januari 2020}}</ref>
+
+Pusat pemerintahan berada di Kecamatan [[Banjarnegara, Banjarnegara|Banjarnegara]], dengan kecamatan terluas dan memiliki penduduk terbanyak adalah kecamatan [[Punggelan, Banjarnegara|Punggelan]]. Kota-kota kecamatan yang cukup signifikan adalah: [[Mandiraja, Banjarnegara|Kota Mandiraja]], [[Purworejo Klampok, Banjarnegara|Klampok]], [[Wanadadi, Banjarnegara|Wanadadi]], [[Karangkobar, Banjarnegara|Karangkobar]], dan [[Kalibening, Banjarnegara|Kalibening]].
+
+Daftar kecamatan dan kelurahan di Kabupaten Banjarnegara, adalah sebagai berikut:
+{|class="wikitable sortable" width="100%"
+|-valign="top" style="background-color: #ccc;"
+!Kode <br/>Kemendagri !!Kecamatan !!Jumlah <br/>Kelurahan !!Jumlah <br/>Desa !!Kodepos<ref>[https://kodepos.posindonesia.co.id/ Kode Pos Kabupaten Banjarnegara]</ref> !!Status !!Daftar <br/>Desa/Kelurahan
+|-valign="top"
+|33.04.09
+|[[Banjarmangu, Banjarnegara|Banjarmangu]]
+|align="center"|  ||align="center"|17||53452||Desa||{{Flatlist|
+* [[Banjarkulon, Banjarmangu, Banjarnegara|Banjarkulon]]
+* [[Banjarmangu, Banjarmangu, Banjarnegara|Banjarmangu]]
+* [[Beji, Banjarmangu, Banjarnegara|Beji]]
+* [[Gripit, Banjarmangu, Banjarnegara|Gripit]]
+* [[Jenggawur, Banjarmangu, Banjarnegara|Jenggawur]]
+* [[Kalilunjar, Banjarmangu, Banjarnegara|Kalilunjar]]
+* [[Kendaga, Banjarmangu, Banjarnegara|Kendaga]]
+* [[Kesenet, Banjarmangu, Banjarnegara|Kesenet]]
+* [[Majatengah, Banjarmangu, Banjarnegara|Majatengah]]
+* [[Paseh, Banjarmangu, Banjarnegara|Paseh]]
+* [[Pekandangan, Banjarmangu, Banjarnegara|Pekandangan]]
+* [[Prendengan, Banjarmangu, Banjarnegara|Prendengan]]
+* [[Rejasari, Banjarmangu, Banjarnegara|Rejasari]]
+* [[Sigeblok, Banjarmangu, Banjarnegara|Sigeblok]]
+* [[Sijenggung, Banjarmangu, Banjarnegara|Sijenggung]]
+* [[Sijeruk, Banjarmangu, Banjarnegara|Sijeruk]]
+* [[Sipedang, Banjarmangu, Banjarnegara|Sipedang]]
+}}
+|-valign="top"
+| rowspan="2" |33.04.06
+| rowspan="2" |[[Banjarnegara, Banjarnegara|Banjarnegara]]
+| rowspan="2" align="center" | 9||rowspan="2" align="center"| 4||rowspan="2"|53411-53419||Desa||{{Flatlist|
+* [[Ampelsari, Banjarnegara, Banjarnegara|Ampelsari]]
+* [[Cendana, Banjarnegara, Banjarnegara|Cendana]]
+* [[Sokayasa, Banjarnegara, Banjarnegara|Sokayasa]]
+* [[Tlagawera, Banjarnegara, Banjarnegara|Tlagawera]]
+}}
+|-
+|Kelurahan
+|{{Flatlist|
+* [[Argasoka, Banjarnegara, Banjarnegara|Argasoka]]
+* [[Karangtengah, Banjarnegara, Banjarnegara|Karangtengah]]
+* [[Krandegan, Banjarnegara, Banjarnegara|Krandegan]]
+* [[Kutabanjarnegara, Banjarnegara, Banjarnegara|Kutabanjarnegara]]
+* [[Parakancanggah, Banjarnegara, Banjarnegara|Parakancanggah]]
+* [[Semampir, Banjarnegara, Banjarnegara|Semampir]]
+* [[Semarang, Banjarnegara, Banjarnegara|Semarang]]
+* [[Sokanandi, Banjarnegara, Banjarnegara|Sokanandi]]
+* [[Wangon, Banjarnegara, Banjarnegara|Wangon]]
+}}
+|- valign="top"
+|33.04.16
+|[[Batur, Banjarnegara|Batur]]
+|align="center"|  ||align="center"| 8||53456||Desa||{{Flatlist|
+* [[Bakal, Batur, Banjarnegara|Bakal]]
+* [[Batur, Batur, Banjarnegara|Batur]]
+* [[Dieng Kulon, Batur, Banjarnegara|Dieng Kulon]]
+* [[Karangtengah, Batur, Banjarnegara|Karangtengah]]
+* [[Kepakisan, Batur, Banjarnegara|Kepakisan]]
+* [[Pasurenan, Batur, Banjarnegara|Pasurenan]]
+* [[Pekasiran, Batur, Banjarnegara|Pekasiran]]
+* [[Sumberejo, Batur, Banjarnegara|Sumberejo]]
+}}
+|- valign="top"
+|33.04.05
+|[[Bawang, Banjarnegara|Bawang]]
+|align="center"|  ||align="center"|18||53471||Desa||{{Flatlist|
+* [[Bandingan, Bawang, Banjarnegara|Bandingan]]
+* [[Bawang, Bawang, Banjarnegara|Bawang]]
+* [[Binorong, Bawang, Banjarnegara|Binorong]]
+* [[Blambangan, Bawang, Banjarnegara|Blambangan]]
+* [[Depok, Bawang, Banjarnegara|Depok]]
+* [[Gemuruh, Bawang, Banjarnegara|Gemuruh]]
+* [[Joho, Bawang, Banjarnegara|Joho]]
+* [[Kebondalem, Bawang, Banjarnegara|Kebondalem]]
+* [[Kutayasa, Bawang, Banjarnegara|Kutayasa]]
+* [[Majalengka, Bawang, Banjarnegara|Majalengka]]
+* [[Mantrianom, Bawang, Banjarnegara|Mantrianom]]
+* [[Masaran, Bawang, Banjarnegara|Masaran]]
+* [[Pucang, Bawang, Banjarnegara|Pucang]]
+* [[Serang, Bawang, Banjarnegara|Serang]]
+* [[Wanadri, Bawang, Banjarnegara|Wanadri]]
+* [[Watuurip, Bawang, Banjarnegara|Watuurip]]
+* [[Winong, Bawang, Banjarnegara|Winong]]
+* [[Wiramastra, Bawang, Banjarnegara|Wiramastra]]
+}}
+|- valign="top"
+|33.04.18
+|[[Kalibening, Banjarnegara|Kalibening]]
+|align="center"|  ||align="center"|16||53458||Desa||{{Flatlist|
+* [[Asinan, Kalibening, Banjarnegara|Asinan]]
+* [[Bedana, Kalibening, Banjarnegara|Bedana]]
+* [[Gununglangit, Kalibening, Banjarnegara|Gununglangit]]
+* [[Kalibening, Kalibening, Banjarnegara|Kalibening]]
+* [[Kalibombong, Kalibening, Banjarnegara|Kalibombong]]
+* [[Kalisat Kidul, Kalibening, Banjarnegara|Kalisat Kidul]]
+* [[Karang Anyar, Kalibening, Banjarnegara|Karang Anyar]]
+* [[Kasinoman, Kalibening, Banjarnegara|Kasinoman]]
+* [[Kertasari, Kalibening, Banjarnegara|Kertasari]]
+* [[Majatengah, Kalibening, Banjarnegara|Majatengah]]
+* [[Plorengan, Kalibening, Banjarnegara|Plorengan]]
+* [[Sembawa, Kalibening, Banjarnegara|Sembawa]]
+* [[Sidakangen, Kalibening, Banjarnegara|Sidakangen]]
+* [[Sikumpul, Kalibening, Banjarnegara|Sikumpul]]
+* [[Sirukem, Kalibening, Banjarnegara|Sirukem]]
+* [[Sirukun, Kalibening, Banjarnegara|Sirukun]]
+}}
+|- valign="top"
+|33.04.13
+|[[Karangkobar, Banjarnegara|Karangkobar]]
+|align="center"|  ||align="center"|13||53453||Desa||{{Flatlist|
+* [[Ambal, Karangkobar, Banjarnegara|Ambal]]
+* [[Binangun, Karangkobar, Banjarnegara|Binangun]]
+* [[Gumelar, Karangkobar, Banjarnegara|Gumelar]]
+* [[Jlegong, Karangkobar, Banjarnegara|Jlegong]]
+* [[Karanggondang, Karangkobar, Banjarnegara|Karanggondang]]
+* [[Krangkobar, Karangkobar, Banjarnegara|Krangkobar]]
+* [[Leksana, Karangkobar, Banjarnegara|Leksana]]
+* [[Pagerpelah, Karangkobar, Banjarnegara|Pagerpelah]]
+* [[Pasuruhan, Karangkobar, Banjarnegara|Pasuruhan]]
+* [[Paweden, Karangkobar, Banjarnegara|Paweden]]
+* [[Purwodadi, Karangkobar, Banjarnegara|Purwodadi]]
+* [[Sampang, Karangkobar, Banjarnegara|Sampang]]
+* [[Slatri, Karangkobar, Banjarnegara|Slatri]]
+}}
+|- valign="top"
+| rowspan="2" |33.04.08
+| rowspan="2" |[[Madukara, Banjarnegara|Madukara]]
+| rowspan="2" align="center" | 2||rowspan="2" align="center"|18||rowspan="2"|53482||Desa||{{Flatlist|
+* [[Bantarwaru, Madukara, Banjarnegara|Bantarwaru]]
+* [[Blitar, Madukara, Banjarnegara|Blitar]]
+* [[Clapar, Madukara, Banjarnegara|Clapar]]
+* [[Dawuhan, Madukara, Banjarnegara|Dawuhan]]
+* [[Gununggiana, Madukara, Banjarnegara|Gununggiana]]
+* [[Kaliurip, Madukara, Banjarnegara|Kaliurip]]
+* [[Karanganyar, Madukara, Banjarnegara|Karanganyar]]
+* [[Kutayasa, Madukara, Banjarnegara|Kutayasa]]
+* [[Limbangan, Madukara, Banjarnegara|Limbangan]]
+* [[Madukara, Madukara, Banjarnegara|Madukara]]
+* [[Pagelak, Madukara, Banjarnegara|Pagelak]]
+* [[Pakelen, Madukara, Banjarnegara|Pakelen]]
+* [[Pekauman, Madukara, Banjarnegara|Pekauman]]
+* [[Penawangan, Madukara, Banjarnegara|Penawangan]]
+* [[Petambakan, Madukara, Banjarnegara|Petambakan]]
+* [[Rakitan, Madukara, Banjarnegara|Rakitan]]
+* [[Sered, Madukara, Banjarnegara|Sered]]
+* [[Talunamba, Madukara, Banjarnegara|Talunamba]]
+}}
+|-
+|Kelurahan
+|{{Flatlist|
+* [[Kenteng, Madukara, Banjarnegara|Kenteng]]
+* [[Rejasa, Madukara, Banjarnegara|Rejasa]]
+}}
+|- valign="top"
+|33.04.03
+|[[Mandiraja, Banjarnegara|Mandiraja]]
+|align="center"|  ||align="center"|16||53473||Desa||{{Flatlist|
+* [[Banjengan, Mandiraja, Banjarnegara|Banjengan]]
+* [[Blimbing, Mandiraja, Banjarnegara|Blimbing]]
+* [[Candiwulan, Mandiraja, Banjarnegara|Candiwulan]]
+* [[Glempang, Mandiraja, Banjarnegara|Glempang]]
+* [[Jalatunda, Mandiraja, Banjarnegara|Jalatunda]]
+* [[Kaliwungu, Mandiraja, Banjarnegara|Kaliwungu]]
+* [[Kebakalan, Mandiraja, Banjarnegara|Kebakalan]]
+* [[Kebanaran, Mandiraja, Banjarnegara|Kebanaran]]
+* [[Kertayasa, Mandiraja, Banjarnegara|Kertayasa]]
+* [[Mandirajakulon, Mandiraja, Banjarnegara|Mandirajakulon]]
+* [[Mandirajawetan, Mandiraja, Banjarnegara|Mandirajawetan]]
+* [[Panggisari, Mandiraja, Banjarnegara|Panggisari]]
+* [[Purwasaba, Mandiraja, Banjarnegara|Purwasaba]]
+* [[Salamerta, Mandiraja, Banjarnegara|Salamerta]]
+* [[Simbang, Mandiraja, Banjarnegara|Simbang]]
+* [[Somawangi, Mandiraja, Banjarnegara|Somawangi]]
+}}
+|- valign="top"
+|33.04.20
+|[[Pagedongan, Banjarnegara|Pagedongan]]
+|align="center"|  ||align="center"| 9||53451||Desa||{{Flatlist|
+* [[Duren, Pagedongan, Banjarnegara|Duren]]
+* [[Gentansari, Pagedongan, Banjarnegara|Gentansari]]
+* [[Gunungjati, Pagedongan, Banjarnegara|Gunungjati]]
+* [[Kebutuhduwur, Pagedongan, Banjarnegara|Kebutuhduwur]]
+* [[Kebutuhjurang, Pagedongan, Banjarnegara|Kebutuhjurang]]
+* [[Lebakwangi, Pagedongan, Banjarnegara|Lebakwangi]]
+* [[Pagedongan, Pagedongan, Banjarnegara|Pagedongan]]
+* [[Pesangkalan, Pagedongan, Banjarnegara|Pesangkalan]]
+* [[Twelagiri, Pagedongan, Banjarnegara|Twelagiri]]
+}}
+|- valign="top"
+|33.04.14
+|[[Pagentan, Banjarnegara|Pagentan]]
+|align="center"|  ||align="center"|16||53455||Desa||{{Flatlist|
+* [[Aribaya, Pagentan, Banjarnegara|Aribaya]]
+* [[Babadan, Pagentan, Banjarnegara|Babadan]]
+* [[Gumingsir, Pagentan, Banjarnegara|Gumingsir]]
+* [[Kalitlaga, Pagentan, Banjarnegara|Kalitlaga]]
+* [[Karangnangka, Pagentan, Banjarnegara|Karangnangka]]
+* [[Karekan, Pagentan, Banjarnegara|Karekan]]
+* [[Kasmaran, Pagentan, Banjarnegara|Kasmaran]]
+* [[Kayuares, Pagentan, Banjarnegara|Kayuares]]
+* [[Larangan, Pagentan, Banjarnegara|Larangan]]
+* [[Majasari, Pagentan, Banjarnegara|Majasari]]
+* [[Metawana, Pagentan, Banjarnegara|Metawana]]
+* [[Nagasari, Pagentan, Banjarnegara|Nagasari]]
+* [[Pagentan, Pagentan, Banjarnegara|Pagentan]]
+* [[Plumbungan, Pagentan, Banjarnegara|Plumbungan]]
+* [[Sokaraja, Pagentan, Banjarnegara|Sokaraja]]
+* [[Tegaljeruk, Pagentan, Banjarnegara|Tegaljeruk]]
+}}
+|- valign="top"
+|33.04.19
+|[[Pandanarum, Banjarnegara|Pandanarum]]
+|align="center"|  ||align="center"| 8||53464||Desa||{{Flatlist|
+* [[Beji, Pandanarum, Banjarnegara|Beji]]
+* [[Lawen, Pandanarum, Banjarnegara|Lawen]]
+* [[Pandanarum, Pandanarum, Banjarnegara|Pandanarum]]
+* [[Pasegeran, Pandanarum, Banjarnegara|Pasegeran]]
+* [[Pingit Lor, Pandanarum, Banjarnegara|Pingit Lor]]
+* [[Pringamba, Pandanarum, Banjarnegara|Pringamba]]
+* [[Sinduaji, Pandanarum, Banjarnegara|Sinduaji]]
+* [[Sirongge, Pandanarum, Banjarnegara|Sirongge]]
+}}
+|- valign="top"
+|33.04.15
+|[[Pejawaran, Banjarnegara|Pejawaran]]
+|align="center"|  ||align="center"|17||53454||Desa||{{Flatlist|
+* [[Beji, Pejawaran, Banjarnegara|Beji]]
+* [[Biting, Pejawaran, Banjarnegara|Biting]]
+* [[Condong Campur, Pejawaran, Banjarnegara|Condong Campur]]
+* [[Darmayasa, Pejawaran, Banjarnegara|Darmayasa]]
+* [[Gembol, Pejawaran, Banjarnegara|Gembol]]
+* [[Giritirta, Pejawaran, Banjarnegara|Giritirta]]
+* [[Grogol, Pejawaran, Banjarnegara|Grogol]]
+* [[Kalilunjar, Pejawaran, Banjarnegara|Kalilunjar]]
+* [[Karangsari, Pejawaran, Banjarnegara|Karangsari]]
+* [[Panusupan, Pejawaran, Banjarnegara|Panusupan]]
+* [[Pegundungan, Pejawaran, Banjarnegara|Pegundungan]]
+* [[Pejawaran, Pejawaran, Banjarnegara|Pejawaran]]
+* [[Ratamba, Pejawaran, Banjarnegara|Ratamba]]
+* [[Sarwodadi, Pejawaran, Banjarnegara|Sarwodadi]]
+* [[Semangkung, Pejawaran, Banjarnegara|Semangkung]]
+* [[Sidengok, Pejawaran, Banjarnegara|Sidengok]]
+* [[Tlahap, Pejawaran, Banjarnegara|Tlahap]]
+}}
+|- valign="top"
+|33.04.12
+|[[Punggelan, Banjarnegara|Punggelan]]
+|align="center"|  ||align="center"|17||53462||Desa||{{Flatlist|
+* [[Badakarya, Punggelan, Banjarnegara|Badakarya]]
+* [[Bondolharjo, Punggelan, Banjarnegara|Bondolharjo]]
+* [[Danakerta, Punggelan, Banjarnegara|Danakerta]]
+* [[Jembangan, Punggelan, Banjarnegara|Jembangan]]
+* [[Karangsari, Punggelan, Banjarnegara|Karangsari]]
+* [[Kecepit, Punggelan, Banjarnegara|Kecepit]]
+* [[Klapa, Punggelan, Banjarnegara|Klapa]]
+* [[Mlaya, Punggelan, Banjarnegara|Mlaya]]
+* [[Petuguran, Punggelan, Banjarnegara|Petuguran]]
+* [[Punggelan, Punggelan, Banjarnegara|Punggelan]]
+* [[Purwasana, Punggelan, Banjarnegara|Purwasana]]
+* [[Sambong, Punggelan, Banjarnegara|Sambong]]
+* [[Sawangan, Punggelan, Banjarnegara|Sawangan]]
+* [[Sidarata, Punggelan, Banjarnegara|Sidarata]]
+* [[Tanjungtirta, Punggelan, Banjarnegara|Tanjungtirta]]
+* [[Tlaga, Punggelan, Banjarnegara|Tlaga]]
+* [[Tribuana, Punggelan, Banjarnegara|Tribuana]]
+}}
+|- valign="top"
+|33.04.04
+|[[Purwanegara, Banjarnegara|Purwanegara]]
+|align="center"|  ||align="center"|13||53472||Desa||{{Flatlist|
+* [[Danaraja, Purwanegara, Banjarnegara|Danaraja]]
+* [[Gumiwang, Purwanegara, Banjarnegara|Gumiwang]]
+* [[Kaliajir, Purwanegara, Banjarnegara|Kaliajir]]
+* [[Kalipelus, Purwanegara, Banjarnegara|Kalipelus]]
+* [[Kalitengah, Purwanegara, Banjarnegara|Kalitengah]]
+* [[Karanganyar, Purwanegara, Banjarnegara|Karanganyar]]
+* [[Kutawuluh, Purwanegara, Banjarnegara|Kutawuluh]]
+* [[Merden, Purwanegara, Banjarnegara|Merden]]
+* [[Mertasari, Purwanegara, Banjarnegara|Mertasari]]
+* [[Parakan, Purwanegara, Banjarnegara|Parakan]]
+* [[Petir, Purwanegara, Banjarnegara|Petir]]
+* [[Pucungbedug, Purwanegara, Banjarnegara|Pucungbedug]]
+* [[Purwonegoro, Purwanegara, Banjarnegara|Purwonegoro]]
+}}
+|- valign="top"
+|33.04.02
+|[[Purworejo Klampok, Banjarnegara|Purworejo Klampok]]
+|align="center"|  ||align="center"| 8||53474||Desa||{{Flatlist|
+* [[Kalilandak, Purworejo Klampok, Banjarnegara|Kalilandak]]
+* [[Kalimandi, Purworejo Klampok, Banjarnegara|Kalimandi]]
+* [[Kaliwinasuh, Purworejo Klampok, Banjarnegara|Kaliwinasuh]]
+* [[Kecitran, Purworejo Klampok, Banjarnegara|Kecitran]]
+* [[Klampok, Purworejo Klampok, Banjarnegara|Klampok]]
+* [[Pagak, Purworejo Klampok, Banjarnegara|Pagak]]
+* [[Purworejo, Purworejo Klampok, Banjarnegara|Purworejo]]
+* [[Sirkandi, Purworejo Klampok, Banjarnegara|Sirkandi]]
+}}
+|- valign="top"
+|33.04.11
+|[[Rakit, Banjarnegara|Rakit]]
+|align="center"|  ||align="center"|11||53463||Desa||{{Flatlist|
+* [[Adipasir, Rakit, Banjarnegara|Adipasir]]
+* [[Badamita, Rakit, Banjarnegara|Badamita]]
+* [[Bandingan, Rakit, Banjarnegara|Bandingan]]
+* [[Gelang, Rakit, Banjarnegara|Gelang]]
+* [[Kincang, Rakit, Banjarnegara|Kincang]]
+* [[Lengkong, Rakit, Banjarnegara|Lengkong]]
+* [[Luwung, Rakit, Banjarnegara|Luwung]]
+* [[Pingit, Rakit, Banjarnegara|Pingit]]
+* [[Rakit, Rakit, Banjarnegara|Rakit]]
+* [[Situwangi, Rakit, Banjarnegara|Situwangi]]
+* [[Tanjunganom, Rakit, Banjarnegara|Tanjunganom]]
+}}
+|- valign="top"
+| rowspan="2" |33.04.07
+| rowspan="2" |[[Sigaluh, Banjarnegara|Sigaluh]]
+| rowspan="2" align="center" | 1||rowspan="2" align="center"|14||rowspan="2"|53481||Desa||{{Flatlist|
+* [[Bandingan, Sigaluh, Banjarnegara|Bandingan]]
+* [[Bojanegara, Sigaluh, Banjarnegara|Bojanegara]]
+* [[Gembongan, Sigaluh, Banjarnegara|Gembongan]]
+* [[Karangmangu, Sigaluh, Banjarnegara|Karangmangu]]
+* [[Kemiri, Sigaluh, Banjarnegara|Kemiri]]
+* [[Panawaren, Sigaluh, Banjarnegara|Panawaren]]
+* [[Prigi, Sigaluh, Banjarnegara|Prigi]]
+* [[Pringamba, Sigaluh, Banjarnegara|Pringamba]]
+* [[Randegan, Sigaluh, Banjarnegara|Randegan]]
+* [[Sawal, Sigaluh, Banjarnegara|Sawal]]
+* [[Sigaluh, Sigaluh, Banjarnegara|Sigaluh]]
+* [[Singomerto, Sigaluh, Banjarnegara|Singomerto]]
+* [[Tunggara, Sigaluh, Banjarnegara|Tunggara]]
+* [[Wanacipta, Sigaluh, Banjarnegara|Wanacipta]]
+}}
+|-
+|Kelurahan
+|{{Flatlist|
+* [[Kalibenda, Sigaluh, Banjarnegara|Kalibenda]]
+}}
+|- valign="top"
+|33.04.01
+|[[Susukan, Banjarnegara|Susukan]]
+|align="center"|  ||align="center"|15||53475||Desa||{{Flatlist|
+* [[Berta, Susukan, Banjarnegara|Berta]]
+* [[Brengkok, Susukan, Banjarnegara|Brengkok]]
+* [[Derik, Susukan, Banjarnegara|Derik]]
+* [[Dermasari, Susukan, Banjarnegara|Dermasari]]
+* [[Gumelem Kulon, Susukan, Banjarnegara|Gumelem Kulon]]
+* [[Gumelem Wetan, Susukan, Banjarnegara|Gumelem Wetan]]
+* [[Karangjati, Susukan, Banjarnegara|Karangjati]]
+* [[Karangsalam, Susukan, Banjarnegara|Karangsalam]]
+* [[Kedawung, Susukan, Banjarnegara|Kedawung]]
+* [[Kemranggon, Susukan, Banjarnegara|Kemranggon]]
+* [[Pakikiran, Susukan, Banjarnegara|Pakikiran]]
+* [[Panerusan Kulon, Susukan, Banjarnegara|Panerusan Kulon]]
+* [[Panerusan Wetan, Susukan, Banjarnegara|Panerusan Wetan]]
+* [[Piasa Wetan, Susukan, Banjarnegara|Piasa Wetan]]
+* [[Susukan, Susukan, Banjarnegara|Susukan]]
+}}
+|- valign="top"
+|33.04.10
+|[[Wanadadi, Banjarnegara|Wanadadi]]
+|align="center"|  ||align="center"|11||53461||Desa||{{Flatlist|
+* [[Gumingsir, Wanadadi, Banjarnegara|Gumingsir]]
+* [[Kandangwangi, Wanadadi, Banjarnegara|Kandangwangi]]
+* [[Karangjambe, Wanadadi, Banjarnegara|Karangjambe]]
+* [[Karangkemiri, Wanadadi, Banjarnegara|Karangkemiri]]
+* [[Kasalib, Wanadadi, Banjarnegara|Kasalib]]
+* [[Lemahjaya, Wanadadi, Banjarnegara|Lemahjaya]]
+* [[Linggasari, Wanadadi, Banjarnegara|Linggasari]]
+* [[Medayu, Wanadadi, Banjarnegara|Medayu]]
+* [[Tapen, Wanadadi, Banjarnegara|Tapen]]
+* [[Wanadadi, Wanadadi, Banjarnegara|Wanadadi]]
+* [[Wanakarsa, Wanadadi, Banjarnegara|Wanakarsa]]
+}}
+|- valign="top"
+|33.04.17
+|[[Wanayasa, Banjarnegara|Wanayasa]]
+|align="center"|  ||align="center"|17||53457||Desa||{{Flatlist|
+* [[Balun, Wanayasa, Banjarnegara|Balun]]
+* [[Bantar, Wanayasa, Banjarnegara|Bantar]]
+* [[Dawuhan, Wanayasa, Banjarnegara|Dawuhan]]
+* [[Jatilawang, Wanayasa, Banjarnegara|Jatilawang]]
+* [[Karangtengah, Wanayasa, Banjarnegara|Karangtengah]]
+* [[Kasimpar, Wanayasa, Banjarnegara|Kasimpar]]
+* [[Kubang, Wanayasa, Banjarnegara|Kubang]]
+* [[Legoksayem, Wanayasa, Banjarnegara|Legoksayem]]
+* [[Pagergunung, Wanayasa, Banjarnegara|Pagergunung]]
+* [[Pandansari, Wanayasa, Banjarnegara|Pandansari]]
+* [[Penanggungan, Wanayasa, Banjarnegara|Penanggungan]]
+* [[Kalideres, Wanayasa, Banjarnegara|Kalideres]]
+* [[Susukan, Wanayasa, Banjarnegara|Susukan]]
+* [[Suwidak, Wanayasa, Banjarnegara|Suwidak]]
+* [[Tempuran, Wanayasa, Banjarnegara|Tempuran]]
+* [[Wanaraja, Wanayasa, Banjarnegara|Wanaraja]]
+* [[Wanayasa, Wanayasa, Banjarnegara|Wanayasa]]
+}}
+|- valign="top" style="background-color: #ccc;"
+! !!TOTAL !!12 !!266 !! !! !!
+|}</onlyinclude>
+
+== Referensi ==
+{{reflist}}
+
+== Lihat pula ==
+* [[Daftar kecamatan dan kelurahan di Indonesia]]
+* [[Daftar kecamatan dan kelurahan di Jawa Tengah]]
+* [[Pembagian administratif di Indonesia]]
+
+== Pranala luar ==
+* {{id}} [http://banjarnegarakab.bps.go.id/ Badan Pusat Statistik Kabupaten Banjarnegara]
+* {{id}} [http://jatengprov.go.id Situs Resmi Provinsi Jawa Tengah]
+* {{id}} [http://banjarnegarakab.go.id Situs Resmi Kabupaten Banjarnegara]
+''catatan: URL sewaktu-waktu dapat berubah/hilang. Bila URL tidak aktif, mohon dihapus dari daftar.''
+{{Kabupaten Banjarnegara|state=expanded}}
+[[Kategori:Daftar kecamatan dan kelurahan di Jawa Tengah|Banjarnegara, Kabupaten]]
+[[Kategori:Kabupaten Banjarnegara]]
