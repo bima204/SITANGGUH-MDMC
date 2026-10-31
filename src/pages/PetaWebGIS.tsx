@@ -426,6 +426,7 @@ export default function PetaWebGIS() {
     const speedMultiplier = Math.max(1, Math.floor(totalSteps / 180));
 
     function animate() {
+      if (!activeRoute) return;
       step += speedMultiplier;
       if (step >= totalSteps) {
         step = totalSteps - 1;

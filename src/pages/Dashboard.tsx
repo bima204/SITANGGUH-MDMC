@@ -267,7 +267,7 @@ export default function Dashboard() {
                   <YAxis tick={{ fill: '#cbd5e1', fontSize: 11 }} />
                   <Tooltip
                     contentStyle={{ background: '#09101d', border: '1px solid rgba(148,163,184,0.3)', borderRadius: 8, color: '#fff' }}
-                    formatter={(val: number) => [`${val} m³/detik`, 'Debit Air']}
+                    formatter={(val: any) => [`${val} m³/detik`, 'Debit Air']}
                   />
                   <Bar dataKey="debit" radius={[4, 4, 0, 0]}>
                     {debitBarData.map((entry, i) => (
@@ -317,7 +317,7 @@ export default function Dashboard() {
                   <YAxis tick={{ fill: '#cbd5e1', fontSize: 11 }} domain={[0, 6]} unit="m" />
                   <Tooltip
                     contentStyle={{ background: '#09101d', border: '1px solid rgba(148,163,184,0.3)', borderRadius: 8, color: '#fff' }}
-                    formatter={(val: number, name: string) => [
+                    formatter={(val: any, name: any) => [
                       `${val} meter`, 
                       name === 'tma' ? 'TMA Aktual' : 'Batas Normal'
                     ]}
@@ -646,7 +646,7 @@ export default function Dashboard() {
                   <YAxis tick={{ fill: '#cbd5e1', fontSize: 11 }} />
                   <Tooltip
                     contentStyle={{ background: '#09101d', border: '1px solid rgba(148,163,184,0.3)', borderRadius: 8, color: '#fff' }}
-                    formatter={(val: number) => [`${val.toLocaleString('id-ID')} Liter/hari`, 'Defisit Air']}
+                    formatter={(val: any) => [`${Number(val).toLocaleString('id-ID')} Liter/hari`, 'Defisit Air']}
                   />
                   <Bar dataKey="defisit" radius={[4, 4, 0, 0]}>
                     {barData.map((entry, i) => (

@@ -669,7 +669,7 @@ export default function TopsisPage() {
               <YAxis tick={{ fill: '#cbd5e1', fontSize: 11 }} domain={[0, 1]} />
               <Tooltip
                 contentStyle={{ background: '#09101d', border: '1px solid rgba(148,163,184,0.3)', borderRadius: 8, color: '#fff' }}
-                formatter={(val: number) => [`${val}`, 'Nilai Preferensi TOPSIS (V)']}
+                formatter={(val: any) => [`${val}`, 'Nilai Preferensi TOPSIS (V)']}
               />
               <Bar dataKey="score" radius={[6, 6, 0, 0]}>
                 {chartData.map((_, i) => (

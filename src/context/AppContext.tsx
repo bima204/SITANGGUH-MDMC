@@ -14,7 +14,7 @@ interface AppState {
   activePage: PageType;
   setActivePage: (p: PageType) => void;
   musim: MusimType;
-  setMusim: React.Dispatch<React.SetStateAction<MusimType>>;
+  setMusim: (newMusim: MusimType) => void;
   // Sidebar state & shortcut Ctrl+B
   sidebarOpen: boolean;
   setSidebarOpen: React.Dispatch<React.SetStateAction<boolean>>;
